@@ -17,7 +17,7 @@ Terraform is an open-source infrastructure as code software tool created by Hash
 4. Second virtual machine -> entertain traffic from first virtual machine only and can reply the same virtual machine again.
 5. App can connect to database and database can connect to app but database cannot connect to web.
 
-_Note: Keep main and variable files different for each component_
+_Note: main and variable files different for each component_
 
 ## Solution
 
