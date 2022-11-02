@@ -9,7 +9,7 @@ Terraform is an open-source infrastructure as code software tool created by Hash
 ## Installation
 - [Terraform](https://www.terraform.io/downloads.html)
 
-## Problem Statement
+## Architecture
 
 1. One virtual network tied in three subnets.
 2. Each subnet will have one virtual machine.
